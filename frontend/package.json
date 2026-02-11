@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "14": "^3.1.6",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mediapipe/pose": "^0.5.1675469404",
@@ -20,9 +19,6 @@
     "@react-three/drei": "^9.92.5",
     "axios": "^1.6.3",
     "babel-cli": "^6.26.0",
-    "danfojs": "^1.1.2",
-    "danfojs-node": "^1.1.2",
-    "dtw": "^0.0.3",
     "pandas-js": "^0.2.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",

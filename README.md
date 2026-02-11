@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RehabAI
 
 RehabAI is an AI-powered web application for remote physical therapy. Instead of relying on expensive RGB-D cameras (most commonly used for human action evaluation in telerehabilitation), RehabAI uses the built-in RGB camera from a patient's webcam. A patient performs an exercise in front of the webcam, and a pose-estimation model extracts body joint positions from the video frames. This time series joint-position data is then used to predict a clinical score for exercise performance using a transformer-encoder based model. The extracted joint positions are also used to provide live feedback via Dynamic Time Warping (DTW) to help the patient improve their form. The system is demonstrated using the [KiMORE](https://ieeexplore.ieee.org/document/8736767) dataset, which targets patients with lower back pain.
@@ -135,3 +136,6 @@ npm run dev
 - API Docs: http://localhost:8000/docs
 
 [↑ Back to top](#table-of-contents)
+=======
+# physioAI
+>>>>>>> cef6bfde7f50c4bf5ab03134b8d120404ce9b45a
